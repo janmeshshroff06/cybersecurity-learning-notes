@@ -1,1 +1,1 @@
-# cybersecurity-learning-notes
+# Google Cybersecurity Professional Certificate
