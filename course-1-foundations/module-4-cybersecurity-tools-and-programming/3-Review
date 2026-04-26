@@ -1,0 +1,45 @@
+# Module 4.3: Review – Cybersecurity Tools and Programming Languages
+
+## Overview
+
+This section reviews the key concepts from Module 4 and reinforces your understanding of cybersecurity tools and programming skills.
+
+## Glossary Terms
+
+- SIEM  
+- SQL  
+- Python  
+- Firewall  
+- Intrusion Detection System (IDS)  
+- Intrusion Prevention System (IPS)  
+- Network traffic  
+
+## Module 4 Challenge
+
+By the end of this module, you should be able to:
+
+- Identify common cybersecurity tools  
+- Explain how SIEM tools work  
+- Understand network traffic analysis  
+- Describe how SQL and Python are used in cybersecurity  
+- Recognize key technical knowledge and skills  
+
+## Key Takeaways
+
+- Cybersecurity tools help detect and respond to threats  
+- SIEM tools provide centralized monitoring and alerting  
+- Programming languages like Python and SQL are essential for automation and analysis  
+- Strong technical knowledge and analytical skills are critical in cybersecurity roles  
+
+## Big Picture
+
+Cybersecurity tools combined with programming skills allow analysts to efficiently monitor systems, analyze threats, and respond to security incidents in real-world environments.
+
+## Real-World Application
+
+These concepts are applied in real-world scenarios such as:
+
+- Using SIEM tools to monitor system logs and detect suspicious activity  
+- Writing Python scripts to automate repetitive security tasks  
+- Querying databases with SQL to investigate incidents  
+- Using network analysis tools to identify malicious traffic 
