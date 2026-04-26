@@ -20,9 +20,9 @@ NIST frameworks help organizations:
 - Helps improve an organization’s security posture  
 - Provides a structured way to manage cybersecurity risk  
 
-## Core Functions of the NIST CSF
+## 5 Core Functions of the NIST CSF
 
-### Identify
+### 1. Identify
 
 - Understand systems, assets, and risks  
 
@@ -34,7 +34,7 @@ Example:
 
 - Identifying a compromised workstation  
 
-### Protect
+### 2. Protect
 
 - Apply safeguards to reduce risk  
 
@@ -48,7 +48,7 @@ Example:
 
 - Blocking an unauthorized device  
 
-### Detect
+### 3. Detect
 
 - Monitor systems to find threats quickly  
 
@@ -60,7 +60,7 @@ Example:
 
 - Security tools flagging unusual behavior  
 
-### Respond
+### 4. Respond
 
 - Take action during a security incident  
 
@@ -74,7 +74,7 @@ Example:
 
 - Determining how an attack happened  
 
-### Recover
+### 5. Recover
 
 - Restore systems after an incident  
 
