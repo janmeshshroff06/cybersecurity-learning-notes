@@ -1,5 +1,5 @@
 
-## Module 4.3: Review: Use Playbooks to Respond to Incidents
+## Module 4.3: Review - Use Playbooks to Respond to Incidents
 
 ### Overview
 
