@@ -1,4 +1,4 @@
-## Module 4.2: Use a Playbook to Respond to Threats, Risks, or Vulnerabilities
+## Module 4.2: Explore incident Reponse
 
 ---
 
