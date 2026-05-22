@@ -4,24 +4,24 @@
 
 ## Overview
 
-- Linux is an open-source operating system commonly used in cybersecurity
+- Linux is an open-source operating system
+- Widely used in:
+  - Cybersecurity
+  - Servers
+  - System administration
+
 - Known for:
   - Security
   - Stability
   - Flexibility
 
-- Widely used by:
-  - Security analysts
-  - Developers
-  - System administrators
-
 ### History of Linux
 
-- Linux was created in the early 1990s
+- Linux was developed in the early 1990s
 
 Important contributors:
 
-- Linus Torvalds → Developed the Linux kernel
+- Linus Torvalds → Created the Linux kernel
 - Richard Stallman → Developed GNU tools and promoted free software
 
 - GNU tools combined with the Linux kernel formed Linux
@@ -29,67 +29,44 @@ Important contributors:
 ### Open-Source Software
 
 - Open source means:
-  - The source code is publicly available
+  - Source code is publicly available
 
 - Users can:
   - Use
   - Modify
-  - Share the software
+  - Share software
 
 - Linux uses the:
   - GNU General Public License (GPL)
 
-### Linux Distributions
+### Linux Community
 
-- A Linux distribution (distro) is a customized version of Linux
-- Different distributions are built for:
-  - General computing
-  - Servers
-  - Cybersecurity
-  - Penetration testing
-
-Examples:
-
-- Ubuntu
-- Debian
-- Kali Linux
+- Linux is supported by a large global community
+- Developers continuously:
+  - Improve security
+  - Fix bugs
+  - Create tools and applications
 
 ### Linux in Cybersecurity
 
-- Linux is heavily used in cybersecurity because it offers:
-  - Powerful command-line tools
-  - Strong security controls
+- Linux is heavily used because it provides:
+  - Strong command-line tools
+  - Security-focused environments
   - Flexibility for system management
 
 Common cybersecurity tasks:
 
 - Log analysis
 - Monitoring systems
-- Managing users and permissions
+- User management
 - Penetration testing
 - Digital forensics
-
-### Linux Community
-
-- Linux is supported by a global community of developers
-- The community continuously:
-  - Improves security
-  - Fixes bugs
-  - Creates tools and applications
-
-## Key Takeaways
-
-- Linux is an open-source operating system widely used in cybersecurity
-- Developed through contributions from Linus Torvalds and Richard Stallman
-- Linux distributions are designed for different purposes and environments
-- Security professionals use Linux for monitoring, investigations, and system management
-- Linux knowledge is an essential cybersecurity skill
 
 ## Linux Architecture
 
 ## Overview
 
-- Linux architecture is made up of multiple components working together
+- Linux architecture consists of several components working together
 - Main components include:
   - User
   - Applications
@@ -101,36 +78,37 @@ Common cybersecurity tasks:
 ### User
 
 - The user interacts with the operating system
+
 - Linux supports:
   - Multiple users simultaneously
 
-- Users initiate:
+- Users perform:
   - Commands
-  - Applications
-  - System tasks
+  - Tasks
+  - System requests
 
 ### Applications
 
-- Applications are programs designed to perform specific tasks
+- Applications are programs that perform specific tasks
 
 Examples:
 
-- Text editors
 - Browsers
+- Text editors
 - Security tools
 
-- Linux commonly uses:
-  - Package managers to install and manage applications
+- Applications communicate with the OS to use system resources
 
 ### Shell
 
 - The shell is the command-line interpreter
+
 - Allows users to communicate with Linux using commands
 
 Responsibilities:
 
 - Processes commands
-- Displays outputs/results
+- Displays results/output
 
 Common shell:
 
@@ -138,11 +116,12 @@ Common shell:
 
 ### Filesystem Hierarchy Standard (FHS)
 
-- The FHS organizes files and directories within Linux
+- Organizes files and directories in Linux
+
 - Defines:
-  - Where system files are stored
-  - Where user files are stored
-  - Directory structure standards
+  - Directory structure
+  - File storage locations
+  - System organization standards
 
 - Helps maintain consistency across Linux systems
 
@@ -161,7 +140,7 @@ Responsibilities:
 
 ### Hardware
 
-- Hardware refers to the physical components of a computer
+- Hardware refers to physical computer components
 
 Examples:
 
@@ -170,12 +149,37 @@ Examples:
 - Mouse
 - Storage devices
 
-- Hardware works with the kernel to execute tasks
+- Hardware works with the kernel to execute system tasks
+
+## Cybersecurity Importance
+
+- Linux is important in cybersecurity because it:
+  - Supports advanced command-line operations
+  - Provides powerful security tools
+  - Is commonly used on servers and security systems
+
+- Security analysts use Linux for:
+  - Monitoring systems
+  - Investigating incidents
+  - Managing permissions
+  - Running security assessments
 
 ## Key Takeaways
 
-- Linux architecture includes users, applications, shell, filesystem, kernel, and hardware
-- The shell allows users to communicate with the operating system
-- The kernel manages hardware and system resources
-- The FHS organizes data and directories consistently
-- Understanding Linux architecture is important in cybersecurity and system administration
+- Linux is an open-source operating system widely used in cybersecurity
+- Developed through contributions from Linus Torvalds and Richard Stallman
+- Linux architecture includes:
+  - User
+  - Applications
+  - Shell
+  - Filesystem
+  - Kernel
+  - Hardware
+
+- The kernel manages system resources and hardware communication
+- Linux knowledge is essential for cybersecurity and system administration
+
+## Big Picture
+
+- Linux provides flexibility, security, and powerful command-line capabilities for cybersecurity work
+- Its architecture allows users, applications, and hardware to communicate efficiently
