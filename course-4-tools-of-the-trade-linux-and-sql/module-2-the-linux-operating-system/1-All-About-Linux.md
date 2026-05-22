@@ -15,16 +15,14 @@
   - Developers
   - System administrators
 
-## Key Concepts
-
 ### History of Linux
 
 - Linux was created in the early 1990s
 
 Important contributors:
 
-- Linus Torvalds → Developed the Linux kernel  
-- Richard Stallman → Developed GNU tools and promoted free software  
+- Linus Torvalds → Developed the Linux kernel
+- Richard Stallman → Developed GNU tools and promoted free software
 
 - GNU tools combined with the Linux kernel formed Linux
 
@@ -52,9 +50,9 @@ Important contributors:
 
 Examples:
 
-- Ubuntu  
-- Debian  
-- Kali Linux  
+- Ubuntu
+- Debian
+- Kali Linux
 
 ### Linux in Cybersecurity
 
@@ -65,11 +63,11 @@ Examples:
 
 Common cybersecurity tasks:
 
-- Log analysis  
-- Monitoring systems  
-- Managing users and permissions  
-- Penetration testing  
-- Digital forensics  
+- Log analysis
+- Monitoring systems
+- Managing users and permissions
+- Penetration testing
+- Digital forensics
 
 ### Linux Community
 
@@ -100,8 +98,6 @@ Common cybersecurity tasks:
   - Kernel
   - Hardware
 
-## Key Concepts
-
 ### User
 
 - The user interacts with the operating system
@@ -119,9 +115,9 @@ Common cybersecurity tasks:
 
 Examples:
 
-- Text editors  
-- Browsers  
-- Security tools  
+- Text editors
+- Browsers
+- Security tools
 
 - Linux commonly uses:
   - Package managers to install and manage applications
@@ -133,8 +129,8 @@ Examples:
 
 Responsibilities:
 
-- Processes commands  
-- Displays outputs/results  
+- Processes commands
+- Displays outputs/results
 
 Common shell:
 
@@ -156,10 +152,10 @@ Common shell:
 
 Responsibilities:
 
-- Process management  
-- Memory management  
-- Hardware communication  
-- Resource allocation  
+- Process management
+- Memory management
+- Hardware communication
+- Resource allocation
 
 - Uses drivers to interact with hardware devices
 
@@ -169,10 +165,10 @@ Responsibilities:
 
 Examples:
 
-- CPU  
-- Keyboard  
-- Mouse  
-- Storage devices  
+- CPU
+- Keyboard
+- Mouse
+- Storage devices
 
 - Hardware works with the kernel to execute tasks
 
