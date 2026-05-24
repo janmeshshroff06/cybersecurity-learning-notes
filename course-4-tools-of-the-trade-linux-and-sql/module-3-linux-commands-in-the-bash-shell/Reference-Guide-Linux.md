@@ -6,12 +6,12 @@ A quick reference guide for commonly used Linux commands related to navigation, 
 
 # Table of Contents
 
-* [Navigate the File System]
-* [Read Files]
-* [Manage the File System]
-* [Filter Content]
-* [Manage Users and Permissions]
-* [Get Help in Linux]
+* Navigate the File System
+* Read Files
+* Manage the File System
+* Filter Content
+* Manage Users and Permissions
+* Get Help in Linux
 
 ---
 
