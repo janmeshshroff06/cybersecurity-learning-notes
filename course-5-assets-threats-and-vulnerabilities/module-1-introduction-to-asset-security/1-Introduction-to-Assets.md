@@ -1,4 +1,4 @@
-## Module 5.1: Introduction to Assets
+## Module 1.1: Introduction to Assets
 
 ## The What, Why, and How of Asset Security
 
