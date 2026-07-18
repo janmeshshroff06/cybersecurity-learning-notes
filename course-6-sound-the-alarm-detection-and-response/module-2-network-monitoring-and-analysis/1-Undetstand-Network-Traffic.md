@@ -1,4 +1,4 @@
-# **2.1 Understand Network Traffic**
+# Module **2.1 Understand Network Traffic**
 
 ---
 
