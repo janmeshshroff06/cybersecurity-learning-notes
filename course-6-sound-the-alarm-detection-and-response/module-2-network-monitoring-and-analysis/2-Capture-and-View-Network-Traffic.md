@@ -1,4 +1,4 @@
-# **2.2 Capture and View Network Traffic**
+# Module **2.2 Capture and View Network Traffic**
 
 ---
 
